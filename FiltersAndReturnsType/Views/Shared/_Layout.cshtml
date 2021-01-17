@@ -37,6 +37,9 @@
                             <a class="nav-link text-dark" asp-area="" asp-controller="Employee" asp-action="Index">Employee</a>
                         </li>
                         @await Component.InvokeAsync("EmployeeSummary")
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="DiffReturnTypes" asp-action="GetDiffReturnType">Return Types</a>
+                        </li>
                     </ul>
                 </div>
             </div>
