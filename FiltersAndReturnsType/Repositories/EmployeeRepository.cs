@@ -11,7 +11,8 @@ namespace FiltersAndReturnsType.Repositories
         List<Employee> employees = new List<Employee>
         {
             new Employee{ Id=1, Name="Praveen"},
-             new Employee{ Id=2, Name="Sumit"}
+             new Employee{ Id=2, Name="Sumit"},
+              new Employee{ Id=3, Name="Tanya"}
         };
         public IEnumerable<Employee> GetEmployees()
         {

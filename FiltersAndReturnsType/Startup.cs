@@ -33,6 +33,7 @@ namespace FiltersAndReturnsType
                // options.Filters.Add<AuthFilters>();
             });
             services.AddTransient<IAuthStatusRepository, AuthStatusRepository>();
+            services.AddTransient<IEmployeeReposotory, EmployeeRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

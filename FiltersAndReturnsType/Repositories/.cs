@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FiltersAndReturnsType.Repositories
 {
-    interface IEmployeeReposotory
+    public interface IEmployeeReposotory
     {
         IEnumerable<Employee> GetEmployees();
     }

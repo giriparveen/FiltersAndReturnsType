@@ -38,3 +38,6 @@ C:\Users\parveen.giri\source\repos\FiltersAndReturnsType\FiltersAndReturnsType\o
 C:\Users\parveen.giri\source\repos\FiltersAndReturnsType\FiltersAndReturnsType\obj\Debug\netcoreapp3.1\Razor\Views\HomeLoan\Index.cshtml.g.cs
 C:\Users\parveen.giri\source\repos\FiltersAndReturnsType\FiltersAndReturnsType\obj\Debug\netcoreapp3.1\Razor\Views\Loan\Index.cshtml.g.cs
 C:\Users\parveen.giri\source\repos\FiltersAndReturnsType\FiltersAndReturnsType\obj\Debug\netcoreapp3.1\Razor\Views\Home\CheckExceptionFilter.cshtml.g.cs
+C:\Users\parveen.giri\source\repos\FiltersAndReturnsType\FiltersAndReturnsType\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Employee.cshtml.g.cs
+C:\Users\parveen.giri\source\repos\FiltersAndReturnsType\FiltersAndReturnsType\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Index.cshtml.g.cs
+C:\Users\parveen.giri\source\repos\FiltersAndReturnsType\FiltersAndReturnsType\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\EmployeeSummary\Default.cshtml.g.cs

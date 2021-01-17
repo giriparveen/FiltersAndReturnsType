@@ -1,0 +1,5 @@
+﻿@model EmployeeViewModel
+@foreach (var employe in Model.Employees)
+{
+<partial name="_Employee" model="employe" />
+}
