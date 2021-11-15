@@ -14,7 +14,7 @@ namespace FiltersAndReturnsType.Components
         {
             _employeeReposotory = employeeReposotory;
         }
-
+        // Invoke method
         public IViewComponentResult Invoke()
         {
             var employeeCount = _employeeReposotory.GetEmployees().Count();

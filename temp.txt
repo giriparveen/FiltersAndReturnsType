@@ -1,0 +1,11 @@
+AzureDemo/obj/Debug/netcoreapp3.1/*.cache
+
+1. 17
+
+obj
+d
+
+
+gitigo- 
+
+No hosted parallelism has been purchased or granted. To request a free parallelism grant, please reach out to azpipelines-freetier@microsoft.com with your name and organization name
